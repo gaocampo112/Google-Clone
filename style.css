@@ -23,6 +23,11 @@ html{
     margin-top: 10px;
 }
 
+.leftNav{
+    position: absolute;
+    left: 10px;
+}
+
 .botones{
 
     position: absolute;
@@ -113,4 +118,62 @@ html{
     border-radius: 5px;
     font-size: 14px;
 
+}
+
+footer{
+    background-color: #171717;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 50px;
+}
+
+.botonSt{
+    position: absolute;
+    right: 30px;
+    bottom: 15px;
+}
+
+.botonTr{
+    position: absolute;
+    right: 113px;
+    bottom: 15px;
+}
+
+.botonPr{
+    position: absolute;
+    right: 182px;
+    bottom: 15px;
+}
+
+.botonCl{
+    position: absolute;
+    right: 615px;
+    bottom: 15px;
+}
+
+.botonHw{
+    position: absolute;
+    left: 212px;
+    bottom: 15px;
+}
+
+.botonBs{
+    position: absolute;
+    left: 125px;
+    bottom: 15px;
+}
+
+.botonAd{
+    position: absolute;
+    left: 25px;
+    bottom: 15px;
+}
+
+.imgLeaf{
+    position: absolute;
+    right: 895px;
+    bottom: 15px;
+    width: 20px;
 }
