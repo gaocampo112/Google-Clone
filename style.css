@@ -40,6 +40,10 @@ html{
     color: #FFFFFF;
     margin-left: 10px;
     font-size: 13px;
+    &:hover
+    {
+        text-decoration: underline;
+    }
 }
 
 .grid{
@@ -76,7 +80,11 @@ html{
     border-radius: 50px;
     color: #FFFFFF;
     padding-left: 60px;
-    font-size: 20px;
+    font-size: 18px;
+    &:hover
+    {
+        background-color: #303134;
+    }
 }
 
 .imgSearch{
@@ -117,6 +125,10 @@ html{
     margin-left: 10px;
     border-radius: 5px;
     font-size: 14px;
+    &:hover
+    {
+        border: 1px solid #ffffff4e; 
+    }
 
 }
 
